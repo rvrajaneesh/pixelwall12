@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690940983623",
+    "project_id": "thetrio-wallpaper",
+    "storage_bucket": "thetrio-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690940983623:android:95ce57c57de6a1b3e63462",
+        "android_client_info": {
+          "package_name": "com.pixelwall.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690940983623-7a6l4komvip0nbvm5t6cd4i9st5c03bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixelwall.com",
+            "certificate_hash": "b9546af49330b072d9e05607fa8974b752114736"
+          }
+        },
+        {
+          "client_id": "690940983623-bu7tqed2q4nisd9sdadmo36d6aj1i3i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixelwall.com",
+            "certificate_hash": "34c0cb58b88566432ec9885c19d1bc24d9a9ca12"
+          }
+        },
+        {
+          "client_id": "690940983623-sc28hvc13hmbugj2362k4udh5ms852t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NmVDEjo7Kb_sf_6n5X36BJHCbEuBLcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690940983623-sc28hvc13hmbugj2362k4udh5ms852t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
